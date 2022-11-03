@@ -7,6 +7,7 @@ public class GItTest {
         System.out.println("hello word4");
         System.out.println("hello word4");
         System.out.println("hello word4");
+        System.out.println("wyzuishuai");
 
     }
 }
